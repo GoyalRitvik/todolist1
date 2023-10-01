@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  color:bisque;
+  font-family:cursive, cursive;
+  font:300;
+}
+p {
+  font-family: 'Courier New', Courier, monospace;
+  background-color:red;
+  padding:5px;
+  margin-left: 30%;
+  margin-right: 30%;
+  color: white;
+}
+p:hover{
+  text-decoration: line-through;
+
+  background-color:green;}
+
+
+#input{
+  background-color:lightsteelblue;
+  border-radius: 5px;
+}
+body{
+  background-color:powderblue;
+}
+#enter{
+  border-radius:5px;
+  color:black;
+  box-shadow: 5px 5px navajowhite;
+}
